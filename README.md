@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN3cXgycWh0Z3pkZDU2bWdtM2g1NWE4em0xMnVycDY5NHdlNTI0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GiWzcuj8Tg7gk3me7/giphy.gif" width="150"/>
+  <img src="https://github.com/FlorenceGhestem/FlorenceGhestem/blob/main/assets/stable-diffusion-first-image.jpg" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -15,12 +15,6 @@
   Hi there, I'm Florence !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJpcmZobjl3cmprbGpneGVvcTlzODN4eXA5YnV5bmZydDdlY3JkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 ### :woman_technologist: About Me
 - :mortar_board: I'm a PhD candidate in Biostatistics at Paris-Saclay University, at CESP - INSERM lab in Paris, France
