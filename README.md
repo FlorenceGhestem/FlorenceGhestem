@@ -22,7 +22,7 @@
 
 ---
 
-### :woman_technologist: About Me:
+### :woman_technologist: About Me
 - :mortar_board: I'm a PhD candidate in Biostatistics at Paris-Saclay University, at CESP - INSERM lab in Paris, France
 - :mag: My research: Extracting genotype-phenotype associations from network integration of deep and multiscale phenotypic data
 - :star2: When I'm not crunching data, you'll find me training for my next run, or diving into a creative project!
