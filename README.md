@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/FlorenceGhestem/FlorenceGhestem/blob/main/assets/stable-diffusion-first-image.jpg" width="150"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/florence-ghestem-data-sciences">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
